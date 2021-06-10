@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=LimJinMyeong&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=LimJinMyeong&fontSize=90)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
