@@ -1,4 +1,7 @@
-<h3 style="text-align:center background-color:#ffa883; coor:#fff;">Lim JinMyeong</h3>
+https://capsule-render.vercel.app/api?
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=LimJinMyeong%20render&fontSize=90)
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
 
 
 
