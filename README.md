@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=LimJinMyeong&fontSize=90)
 
-<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Photoshop&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Photobucket&logoColor=white"/></a>&nbsp 
 
 
 
